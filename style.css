@@ -1,0 +1,25 @@
+
+*{
+    box-sizing: border-box;
+}
+
+
+
+.pesos {
+    display: flex;
+    align-items: center;
+}
+
+.pesosIcon{
+    margin-bottom: 10px;
+}
+
+.credit-card-container {
+    display: inline-flex;
+    border-radius: 0.5rem;
+}
+
+.notes{
+    font-size: smaller;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
